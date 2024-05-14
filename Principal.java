@@ -2,9 +2,9 @@ import java.awt.Desktop;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.HashMap; //estrutura de dados que permite armazenar pares chave-valor
 import java.util.List;
-import java.util.Map;
+import java.util.Map; //implementação do HashMap acima importado
 import java.util.Scanner;
 
 public class Principal {
